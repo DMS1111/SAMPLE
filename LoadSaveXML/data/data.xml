@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bubbles>
+  <bubble>
+    <position x="560" y="65"/>
+    <diameter>71.971176</diameter>
+    <label>New label</label>
+  </bubble>
+  <bubble>
+    <position x="477" y="56"/>
+    <diameter>71.80958</diameter>
+    <label>New label</label>
+  </bubble>
+  <bubble>
+    <position x="377" y="47"/>
+    <diameter>42.541904</diameter>
+    <label>New label</label>
+  </bubble>
+  <bubble>
+    <position x="298" y="47"/>
+    <diameter>73.64401</diameter>
+    <label>New label</label>
+  </bubble>
+  <bubble>
+    <position x="214" y="50"/>
+    <diameter>77.90763</diameter>
+    <label>New label</label>
+  </bubble>
+  <bubble>
+    <position x="136" y="62"/>
+    <diameter>40.80378</diameter>
+    <label>New label</label>
+  </bubble>
+  <bubble>
+    <position x="67" y="79"/>
+    <diameter>63.789524</diameter>
+    <label>New label</label>
+  </bubble>
+  <bubble>
+    <position x="36" y="133"/>
+    <diameter>45.37187</diameter>
+    <label>New label</label>
+  </bubble>
+  <bubble>
+    <position x="27" y="178"/>
+    <diameter>49.675896</diameter>
+    <label>New label</label>
+  </bubble>
+  <bubble>
+    <position x="280" y="201"/>
+    <diameter>40.410095</diameter>
+    <label>New label</label>
+  </bubble>
+</bubbles>
