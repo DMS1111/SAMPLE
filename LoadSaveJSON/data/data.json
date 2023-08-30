@@ -1,81 +1,81 @@
 {"bubbles": [
   {
-    "diameter": 54.208152770996094,
+    "diameter": 74.80730438232422,
     "position": {
-      "x": 105,
-      "y": 158
+      "x": 93,
+      "y": 217
     },
     "label": "New label"
   },
   {
-    "diameter": 48.56916427612305,
+    "diameter": 62.845523834228516,
     "position": {
-      "x": 42,
-      "y": 347
+      "x": 210,
+      "y": 211
     },
     "label": "New label"
   },
   {
-    "diameter": 41.84447479248047,
+    "diameter": 54.283409118652344,
     "position": {
-      "x": 32,
-      "y": 345
+      "x": 457,
+      "y": 163
     },
     "label": "New label"
   },
   {
-    "diameter": 57.85509490966797,
+    "diameter": 66.884033203125,
+    "position": {
+      "x": 412,
+      "y": 164
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 65.61393737792969,
+    "position": {
+      "x": 288,
+      "y": 143
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 46.329246520996094,
+    "position": {
+      "x": 357,
+      "y": 58
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 72.98287963867188,
+    "position": {
+      "x": 412,
+      "y": 83
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 49.945072174072266,
+    "position": {
+      "x": 392,
+      "y": 203
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 69.90779113769531,
+    "position": {
+      "x": 293,
+      "y": 244
+    },
+    "label": "New label"
+  },
+  {
+    "diameter": 43.483062744140625,
     "position": {
       "x": 290,
-      "y": 155
-    },
-    "label": "New label"
-  },
-  {
-    "diameter": 52.9005126953125,
-    "position": {
-      "x": 322,
-      "y": 119
-    },
-    "label": "New label"
-  },
-  {
-    "diameter": 76.53072357177734,
-    "position": {
-      "x": 334,
-      "y": 91
-    },
-    "label": "New label"
-  },
-  {
-    "diameter": 69.38185119628906,
-    "position": {
-      "x": 334,
-      "y": 85
-    },
-    "label": "New label"
-  },
-  {
-    "diameter": 46.57674789428711,
-    "position": {
-      "x": 334,
-      "y": 85
-    },
-    "label": "New label"
-  },
-  {
-    "diameter": 47.921531677246094,
-    "position": {
-      "x": 334,
-      "y": 85
-    },
-    "label": "New label"
-  },
-  {
-    "diameter": 45.00577163696289,
-    "position": {
-      "x": 334,
-      "y": 85
+      "y": 244
     },
     "label": "New label"
   }
