@@ -6,7 +6,7 @@ boolean isDragging = false;  // Флаг, указывающий, что пол�
 float dragOffsetY = 0;  // Смещение ползунка скроллбара при перетаскивании
 
 void setup() {
-  size(480, 460);
+  size(480, 522);
   scrollBarY = 0;
   // Загрузка изображений автомобилей
   cars1 = loadImage("Car1.jpg");
@@ -64,7 +64,7 @@ void draw() {
   float maxScrollBarY = height - scrollBarHeight;
   
   // Рассчитываем положение ползунка скроллбара на основе отрицательного значения scrollPosition
-  float scrollBarPosition = map(-scrollPosition, 0, 174 * 10, 0, maxScrollBarY);
+  float scrollBarPosition = map(-scrollPosition, 0, 174 * 7, 0, maxScrollBarY);
   scrollBarY = scrollBarPosition;
   
   fill(150);
@@ -73,14 +73,14 @@ void draw() {
 
 void mouseWheel(MouseEvent event) {
   float deltaY = event.getCount();
-  scrollPosition += deltaY * 10;  // Изменение позиции скролла
-  scrollPosition = constrain(scrollPosition, -(174*10), 0);  // Ограничение позиции скролла
+  scrollPosition += deltaY * 7;  // Изменение позиции скролла
+  scrollPosition = constrain(scrollPosition, -(174*7), 0);  // Ограничение позиции скролла
 }
 
 void mousePressed(MouseEvent event) {
   if (event.getButton() == LEFT) {
     // Если нажата левая кнопка мыши
-    if (mouseX > width - 10 && mouseY > scrollBarY && mouseY < scrollBarY + scrollBarHeight) {
+    if (mouseX > width - 7 && mouseY > scrollBarY && mouseY < scrollBarY + scrollBarHeight) {
       // Проверяем, находится ли курсор над ползунком скроллбара
       isDragging = true;  // Устанавливаем флаг перетаскивания
       dragOffsetY = mouseY - scrollBarY;  // Вычисляем смещение ползунка скроллбара
@@ -96,7 +96,7 @@ void mouseDragged(MouseEvent event) {
     newY = constrain(newY, 0, height - scrollBarHeight); // Ограничение новой позиции ползунка
   
     // Рассчитываем новую позицию скроллбара на основе новой позиции ползунка
-    float newPosition = map(newY, 0, height - scrollBarHeight, 0, 174 * 10);
+    float newPosition = map(newY, 0, height - scrollBarHeight, 0, 174 * 7);
     scrollPosition = -newPosition; // Обновляем позицию скролла
   }
 }
