@@ -1,0 +1,42 @@
+{"bubbles": [
+  {
+    "diameter": 30,
+    "position": {
+      "x": 493,
+      "y": 53
+    },
+    "label": "New label 2"
+  },
+  {
+    "diameter": 30,
+    "position": {
+      "x": 659,
+      "y": 64
+    },
+    "label": "New label 3"
+  },
+  {
+    "diameter": 30,
+    "position": {
+      "x": 767,
+      "y": 100
+    },
+    "label": "New label 4"
+  },
+  {
+    "diameter": 30,
+    "position": {
+      "x": 817,
+      "y": 295
+    },
+    "label": "New label 5"
+  },
+  {
+    "diameter": 30,
+    "position": {
+      "x": 804,
+      "y": 390
+    },
+    "label": "New label 1"
+  }
+]}
