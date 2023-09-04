@@ -2,40 +2,40 @@
   {
     "diameter": 30,
     "position": {
-      "x": 493,
-      "y": 53
+      "x": 690,
+      "y": 226
     },
     "label": "New label 2"
   },
   {
     "diameter": 30,
     "position": {
-      "x": 659,
-      "y": 64
+      "x": 637,
+      "y": 150
     },
     "label": "New label 3"
   },
   {
     "diameter": 30,
     "position": {
-      "x": 767,
-      "y": 100
+      "x": 516,
+      "y": 138
     },
     "label": "New label 4"
   },
   {
     "diameter": 30,
     "position": {
-      "x": 817,
-      "y": 295
+      "x": 463,
+      "y": 186
     },
     "label": "New label 5"
   },
   {
     "diameter": 30,
     "position": {
-      "x": 804,
-      "y": 390
+      "x": 80,
+      "y": 64
     },
     "label": "New label 1"
   }
