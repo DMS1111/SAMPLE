@@ -2,14 +2,6 @@
   {
     "diameter": 30,
     "position": {
-      "x": 690,
-      "y": 226
-    },
-    "label": "New label 2"
-  },
-  {
-    "diameter": 30,
-    "position": {
       "x": 637,
       "y": 150
     },
@@ -36,6 +28,14 @@
     "position": {
       "x": 80,
       "y": 64
+    },
+    "label": "New label 1"
+  },
+  {
+    "diameter": 30,
+    "position": {
+      "x": 79,
+      "y": 73
     },
     "label": "New label 1"
   }
