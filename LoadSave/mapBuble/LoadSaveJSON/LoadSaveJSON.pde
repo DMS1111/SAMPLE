@@ -46,6 +46,17 @@ void setup() {
   cp5 = new ControlP5(this);
   cp5.addButton("OPEN").setWidth(100).setHeight(25).linebreak();
   cp5.addButton("CLOSEC").setWidth(100).setHeight(25).linebreak();
+ // cp5.setFont(createFont("fontawesome-webfont.ttf", 20));
+ cp5.addIcon("icon2",10)
+     .setPosition(1000,0)
+     .setSize(70,50)
+     .setRoundedCorners(20)
+     .setFont(createFont("fontawesome-webfont.ttf", 40))
+     .setFontIcons(#00f205,#00f204)
+     .setScale(0.9,1)
+     .setSwitch(true)
+     .setColorBackground(color(255,100))
+     .hideBackground();
 }
 
 void draw() {
